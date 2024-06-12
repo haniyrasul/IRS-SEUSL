@@ -1,11 +1,9 @@
-% clear all;
-% close all;
+clear all;
+close all;
 
 % Main script
 % Tx and Rx are in the far field. Angle of incidence is zero (direction of
 % Tx wave normal to the IRS surface).
-
-this  is new system
 
 % system parameters
 frequency = 2.4e9; % 2.4 GHz
@@ -136,7 +134,6 @@ colorbar;
 
 
 % Function definitions must be at the end of the file
-% we're on github
 
 function [amplitude, phase] = propagate_wave(amplitude, phase, distance, wavelength)
     % Free space path loss model
