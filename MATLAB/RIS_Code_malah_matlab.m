@@ -1,6 +1,3 @@
-clear all;
-close all;
-
 % Main script
 % Tx and Rx are in the far field. Angle of incidence is zero (direction of
 % Tx wave normal to the IRS surface).
