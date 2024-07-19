@@ -9,3 +9,4 @@ We are using a Google Sheet to track all our resources. You can access it [here]
 
 ## Papers related with the IRS technology
 You can track the research paper references of our project. [Research Papers](https://docs.google.com/spreadsheets/d/1yYXjQHmh1E8JcVTTcENBinDXk5Z5_nUZcm8k9GJ5fS8/edit?pli=1&gid=0#gid=0).
+[Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Farxiv.org%2Fpdf%2F2111.11289&psig=AOvVaw3Qe0LP9PAuH8QSANBk1EHc&ust=1721468021404000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDo1KbmsocDFQAAAAAdAAAAABAJ)
